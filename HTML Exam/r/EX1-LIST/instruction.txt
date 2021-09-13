@@ -1,0 +1,8 @@
+
+EX1:
+
+STEP: 1
+  - Open EX1-RESULT.png to see the result that we want
+
+STEP: 2
+   - Open index.html file and write HTML code follow the picture

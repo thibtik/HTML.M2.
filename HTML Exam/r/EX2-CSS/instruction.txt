@@ -1,0 +1,9 @@
+
+EX2:
+
+STEP 1: 
+   - Link css file from CSS folder to your HTML file 
+
+STEP 2:
+   - Open your CSS file and write CSS style follow the class and id that provide in HTML 
+   - Looking on EX3-RESULT.png to see the result that we want.

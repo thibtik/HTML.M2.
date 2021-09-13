@@ -1,0 +1,16 @@
+EX3:
+
+STEP: 1
+   - Open EX3-RESULT.gif to see the result that we want
+
+STEP 2:
+   - Open index.html file and start your HTML code follow the STEP 1
+   - Open text-for-copy.txt file for copy text to put in p tags
+
+STEP 3:
+   - Open about.html file and contact file and write HTML code follow STEP 1
+   - Link pages to know each other example: index to about or contact ... so on
+
+
+NOTED: Home in picture it is an index.html 
+
